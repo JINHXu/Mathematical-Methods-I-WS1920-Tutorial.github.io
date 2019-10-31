@@ -1,6 +1,7 @@
 # Tutorial Materials of Mathematical Methods 1(WS19/20)
 
 <br/>
+
 *_Time_: Thursday 8.30-10.00<br/>*
 *_Location_: VG Wilhelmstraße - Seminarraum [Sprachw.] 1.13*<br/>
 *_Author_: @xujinghua*
