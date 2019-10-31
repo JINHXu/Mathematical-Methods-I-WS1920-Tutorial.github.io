@@ -1,4 +1,4 @@
-# Tutorial Materials(Author: @xujinghua) of Mathematical Methods 1
+# Tutorial Materials(Author: @ xujinghua) of Mathematical Methods 1
 
 
 Time: Thursday <br/>
