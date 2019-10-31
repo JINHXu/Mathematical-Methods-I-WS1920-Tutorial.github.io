@@ -1,9 +1,9 @@
 # Tutorial Materials of Mathematical Methods 1
 
 
-*Time: Thursday <br/>*
-*Location: VG Wilhelmstraße - Seminarraum [Sprachw.] 1.13*
-*Author: @xujinghua*
+*_Time_: Thursday <br/>*
+*_Location_: VG Wilhelmstraße - Seminarraum [Sprachw.] 1.13*<br/>
+*_Author_: @xujinghua*
 
 
 ## Week 01 
