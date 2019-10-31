@@ -1,8 +1,9 @@
-# Tutorial Materials(Author: @ xujinghua) of Mathematical Methods 1
+# Tutorial Materials of Mathematical Methods 1
 
 
 *Time: Thursday <br/>*
 *Location: VG Wilhelmstraße - Seminarraum [Sprachw.] 1.13*
+*Author: @xujinghua*
 
 
 ## Week 01 
