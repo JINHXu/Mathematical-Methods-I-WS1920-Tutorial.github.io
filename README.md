@@ -11,7 +11,7 @@
 * [Example Sheet 01](https://github.com/JINHXu/Methods1_tutorial19-20.github.io/raw/master/Examples%2001(mathmatical%20methods%201).pdf)
 
 * [Truth Tables](https://github.com/JINHXu/Methods1_tutorialWS19-20.github.io/raw/master/truth%20tables.pdf)
-* [Q&A Sheet]()
+* [Q&A Sheet](https://github.com/JINHXu/Methods1_tutorialWS19-20.github.io/raw/master/Q%26A(24.%20Oct).pdf)
 
 ## Week 02
 
