@@ -9,6 +9,8 @@
 
 ## Week 01 
 * [Example Sheet 01](https://github.com/JINHXu/Methods1_tutorial19-20.github.io/raw/master/Examples%2001(mathmatical%20methods%201).pdf)
+
+* [Truth Tables](https://github.com/JINHXu/Methods1_tutorialWS19-20.github.io/raw/master/truth%20tables.pdf)
 * [Q&A Sheet]()
 
 ## Week 02
