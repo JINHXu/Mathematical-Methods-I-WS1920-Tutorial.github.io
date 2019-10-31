@@ -1,4 +1,4 @@
-# Tutorial Materials of Mathematical Methods I(WS19/20)
+# Tutorial Materials of Mathematical Methods I (WS19/20)
 
 <br/>
 
