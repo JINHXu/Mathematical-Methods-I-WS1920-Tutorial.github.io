@@ -6,10 +6,10 @@
 *_Author_: @xujinghua*
 
 
-### Week 01 
+## Week 01 
 * [Example Sheet 01](https://github.com/JINHXu/Methods1_tutorial19-20.github.io/raw/master/Examples%2001(mathmatical%20methods%201).pdf)
 
-### Week 02
+## Week 02
 
-
+* [Example Sheet 02](https://github.com/JINHXu/Methods1_tutorial19-20.github.io/raw/master/Ex02_logik.pdf) 
 
