@@ -4,9 +4,9 @@
 
 **_Time_: Thursday 8.30-10.00<br/>**
 **_Location_: VG Wilhelmstraße - Seminarraum [Sprachw.] 1.13<br/>**
-**_Author_: [@xujinghua](https://github.com/JINHXu)**
 
-Click to download the materials below.
+
+Click to download the materials(**_Author_: [@xujinghua](https://github.com/JINHXu)**) below.
 
 
 ## Week 01 
