@@ -6,7 +6,7 @@
 **_Location_: VG Wilhelmstraße - Seminarraum [Sprachw.] 1.13<br/>**
 
 
-Click to download the materials(**_Author_: [@xujinghua](https://github.com/JINHXu)**) below.
+Click to download the materials(_Author_: [@xujinghua](https://github.com/JINHXu)) below.
 
 
 ## Week 01 
