@@ -23,4 +23,6 @@ Click to download the materials(_Author_: [@xujinghua](https://github.com/JINHXu
 
 ## Week 03
 
-* [Example Sheet 03](https://github.com/JINHXu/Mathematical-Methods-I-WS1920-Tutorial.github.io/raw/master/Example%2003.pdf)
+_important update in Example Sheet 03_
+
+* [Example Sheet 03(updated)](https://github.com/JINHXu/Mathematical-Methods-I-WS1920-Tutorial.github.io/raw/master/example03(updated).pdf)
