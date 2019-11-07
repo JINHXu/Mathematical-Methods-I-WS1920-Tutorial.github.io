@@ -20,3 +20,7 @@ Click to download the materials(_Author_: [@xujinghua](https://github.com/JINHXu
 * [Example Sheet 02](https://github.com/JINHXu/Methods1_tutorial19-20.github.io/raw/master/Ex02_logik.pdf) 
 
 * [Handout](https://github.com/JINHXu/Methods1_tutorial19-20.github.io/raw/master/Week2_Hand%20out.pdf)
+
+## Week 03
+
+* [Example Sheet 02] ()
