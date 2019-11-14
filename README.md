@@ -33,7 +33,7 @@ _important update in Example Sheet 03_
 
 ### Further tips on constructing natural deduction:
 
-Start with premises or auxiliary assumotions plugged in here.<br/>
+Start with premises or auxiliary assumptions plugged in here.<br/>
 While auxiliary assumptions have to be discharged later at some point.<br/>
 __How to decide what auxiliary assumptions to plug in?<br/>__
 *Observe the premises and conclusions, see the relevance, and consider what to plug in to get to the conclusion with useing the premises and rules.<br/>*
@@ -48,4 +48,16 @@ Premises can come into play at any step when it is useful.
 * (3) No premises: come up with auxiliary assumptions and derive step by step towards the cinclusion. Construct the implication structureas what we did in the example.
 * (4) Don't forget to do it both directions.
 * (5) more than one premises here, plug in at the proper step of deduction when it serve the purpose of either discharging and auxiliary assumtion or drawing the conclusion.
+
+### Sum
+
+Refer closely to the example shown in the tutorial:
+
+* Follow the writing style.
+* Get inspiration on how to form am implication when there is implication in the conclusion.
+* Get inspiration on what auxiliary assumtion to plug in by observing the premises and conclusion.
+
+### Page 4 of Example sheet
+
+*As we did not have time to cover the one last page of the example sheet which contains the thinking. You can read it by yourselve if this interests or confuses you. We may discuss this week if we have time.*
 
