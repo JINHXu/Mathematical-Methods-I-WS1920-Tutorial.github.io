@@ -35,11 +35,11 @@ _important update in Example Sheet 03_
 
 Start with premises or auxiliary assumotions plugged in here.<br/>
 While auxiliary assumptions have to be discharged later at some point.<br/>
-_How to decide what auxiliary assumptions to plug in?<br/>_
-Observe the premises and conclusions, see the relevance, and consider what to plug in to get to the conclusion with useing the premises and rules.<br/>
+__How to decide what auxiliary assumptions to plug in?<br/>__
+*Observe the premises and conclusions, see the relevance, and consider what to plug in to get to the conclusion with useing the premises and rules.<br/>*
 Then at each step of derivation, aplly rules(elimination and/or introduction) toawrds the goal of getting to the conclusion.<br/>
-_Which rules to use at each step?(Central issue)<br/>_
-Conisder how you can get from the current point to the conclusion while all the auxliary assumptions being discharged before finishing.<br/>
+__Which rules to use at each step?(Central issue)<br/>__
+*Conisder how you can get from the current point to the conclusion while all the auxliary assumptions being discharged before finishing.<br/>*
 Premises can come into play at any step when it is useful.
 
 ### Specific notes on Ex4:
