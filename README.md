@@ -54,8 +54,8 @@ Premises can come into play at any step when it is useful.
 Refer closely to the example shown in the tutorial:
 
 * Follow the writing style.
-* Get inspiration on how to form am implication when there is implication in the conclusion.
-* Get inspiration on what auxiliary assumtion to plug in by observing the premises and conclusion.
+* Get inspiration on how to form an implication(implication construction, where in the example was formed from the very first step/aux assump./ up to the conclusion) when there is implication in the conclusion.
+* Get inspiration on what auxiliary assumption to plug in by observing the premises and conclusion(We plugged in the very aux assump. in the example because we saw that relevance between premise and conclusion).
 
 ### Page 4 of Example sheet
 
