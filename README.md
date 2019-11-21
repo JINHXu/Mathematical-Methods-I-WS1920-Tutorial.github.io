@@ -43,11 +43,11 @@ __Which rules to use at each step?(Central issue)<br/>__
 Premises can come into play at any step when it is useful.
 
 ### Specific notes on Ex4:
-* (1) refer to part of the example shown on board suring tutorial.
-* (2) constructing an implication: refer to the implication construction in the example in tutorial.
-* (3) No premises: come up with auxiliary assumptions and derive step by step towards the cinclusion. Construct the implication structureas what we did in the example.
-* (4) Don't forget to do it both directions.
-* (5) more than one premises here, plug in at the proper step of deduction when it serve the purpose of either discharging and auxiliary assumtion or drawing the conclusion.
+  (1) refer to part of the example shown on board suring tutorial.
+  (2) constructing an implication: refer to the implication construction in the example in tutorial.
+  (3) No premises: come up with auxiliary assumptions and derive step by step towards the cinclusion. Construct the                 implication structureas what we did in the example.
+  (4) Don't forget to do it both directions.
+  (5) more than one premises here, plug in at the proper step of deduction when it serve the purpose of either discharging and auxiliary assumtion or drawing the conclusion.
 
 ### Sum
 
