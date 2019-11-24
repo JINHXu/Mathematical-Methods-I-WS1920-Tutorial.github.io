@@ -61,3 +61,7 @@ Refer closely to the example shown in the tutorial:
 
 *As we did not have time to cover the one last page of the example sheet which contains the thinking. You can read it by yourselve if this interests or confuses you. We may discuss this week if we have time.*
 
+## Week 05
+* [Example Sheet 05](https://github.com/JINHXu/Mathematical-Methods-I-WS1920-Tutorial.github.io/raw/master/example%20sheet%2005.pdf)
+
+
