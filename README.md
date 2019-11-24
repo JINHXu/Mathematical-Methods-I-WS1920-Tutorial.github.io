@@ -64,6 +64,6 @@ Refer closely to the example shown in the tutorial:
 ## Week 05
 * [Example Sheet 05](https://github.com/JINHXu/Mathematical-Methods-I-WS1920-Tutorial.github.io/raw/master/example%20sheet%2005.pdf)
 
-_More examples of natural deduction could be found in the literature **Partee, B. H.., A. ter Meulen & R. E. Wall, Mathematical Methods in Linguistics, Kluwer, Dordrecht 1990(chapter 6)**(examples in Fitch style)._
+_More examples of natural deduction could be found in the literature_ **Partee, B. H.., A. ter Meulen & R. E. Wall, Mathematical Methods in Linguistics, Kluwer, Dordrecht 1990(chapter 6)**_(examples in Fitch style)._
 
 
