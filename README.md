@@ -66,4 +66,19 @@ Refer closely to the example shown in the tutorial:
 
 _More examples of natural deduction could be found in the literature_ **Partee, B. H.., A. ter Meulen & R. E. Wall, Mathematical Methods in Linguistics, Kluwer, Dordrecht 1990(chapter 6)**_(examples in Fitch style)._
 
+## Week 06
+
+An interesting fact:<br/>
+Unlike the tradition we follow here in this course, when declaring a set in Python, duplicate elements will be automatically deleted.
+```
+>>> myset = {1,1,1,2}
+>>> myset
+{1, 2}
+>>> 
+```
+But notice, we do allow duplicate elements in a set: <br/>
+"it is also inessential how often an object is named in list notation"
+
+
+
 
