@@ -68,6 +68,8 @@ _More examples of natural deduction could be found in the literature_ **Partee, 
 
 ## Week 06
 
+* [Example Sheet 06](https://github.com/JINHXu/Mathematical-Methods-I-WS1920-Tutorial.github.io/raw/master/EX06.pdf)
+
 An interesting fact:<br/>
 Unlike the tradition we follow here in this course, when declaring a set in Python, duplicate elements will be automatically deleted.
 ```
@@ -76,8 +78,8 @@ Unlike the tradition we follow here in this course, when declaring a set in Pyth
 {1, 2}
 >>> 
 ```
-But notice, we do allow duplicate elements in a set: <br/>
-"it is also inessential how often an object is named in list notation"
+But notice, as being mentioned in the slides, we do allow duplicate elements in a set: <br/>
+_"it is also inessential how often an object is named in list notation"_
 
 
 
