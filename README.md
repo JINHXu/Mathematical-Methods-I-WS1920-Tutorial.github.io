@@ -81,6 +81,11 @@ Unlike the tradition we follow here in this course, when declaring a set in Pyth
 But notice, as being mentioned in the slides, we do allow duplicate elements in a set: <br/>
 _"it is also inessential how often an object is named in list notation"_
 
+## Week 07
+
+</br> 
+Oops, no example sheets this week</br>
+
 
 
 
