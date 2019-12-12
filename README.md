@@ -1,13 +1,13 @@
 # Tutorial Materials of Mathematical Methods I (WS19/20)
 
 <br/>
+The materials are largely based on Prof. Dr. Gerhard Jäger's slides.<br/><br/>
 
 **_Time_: Thursday 8.30-10.00<br/>**
 **_Location_: VG Wilhelmstraße - Seminarraum [Sprachw.] 1.13<br/>**
 
 
 Click to download the materials(_Author_: [@xujinghua](https://github.com/JINHXu)) below.
-
 
 ## Week 01 
 * [Example Sheet 01](https://github.com/JINHXu/Methods1_tutorial19-20.github.io/raw/master/Examples%2001(mathmatical%20methods%201).pdf)
@@ -70,7 +70,7 @@ _More examples of natural deduction could be found in the literature_ **Partee, 
 
 * [Example Sheet 06](https://github.com/JINHXu/Mathematical-Methods-I-WS1920-Tutorial.github.io/raw/master/EX06.pdf)
 
-An interesting fact:<br/>
+A fact:<br/>
 Unlike the tradition we follow here in this course, when declaring a set in Python, duplicate elements will be automatically deleted.
 ```
 >>> myset = {1,1,1,2}
