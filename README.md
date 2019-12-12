@@ -87,5 +87,7 @@ _"it is also inessential how often an object is named in list notation"_
 Oops, no example sheets this week</br>
 
 
+## Week 08
 
+* [Example Sheet 08](https://github.com/JINHXu/Mathematical-Methods-I-WS1920-Tutorial.github.io/raw/master/EX08.pdf)
 
