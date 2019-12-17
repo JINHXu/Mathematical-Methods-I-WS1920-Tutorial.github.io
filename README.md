@@ -91,7 +91,7 @@ Oops, no example sheets this week</br>
 
 * [Example Sheet 08](https://github.com/JINHXu/Mathematical-Methods-I-WS1920-Tutorial.github.io/raw/master/EX08.pdf)
 
-recent update:</br>
+__recent update:__</br>
 * domain will no longer be required when interpreting PL FMLs into NL accoding to the most recent updated version of solution sheet.
 
 * a single term(constant or variable) is considered as a well-formed expression, but not a PL FML.
