@@ -97,9 +97,9 @@ __recent update:__</br>
 * a single term(constant or variable) is considered as a well-formed expression, but not a PL FML.
 
 ## Week 09
-* [Example Sheet 09]()
+* [Example Sheet 09](https://github.com/JINHXu/Mathematical-Methods-I-WS1920-Tutorial.github.io/raw/master/EX09.pdf)
 
-## XMAS Break
+## XMAS break
 * Merry Christmas!
 
 
