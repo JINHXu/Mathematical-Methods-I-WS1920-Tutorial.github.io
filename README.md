@@ -100,6 +100,6 @@ __recent update:__</br>
 * [Example Sheet 09](https://github.com/JINHXu/Mathematical-Methods-I-WS1920-Tutorial.github.io/raw/master/EX09.pdf)
 
 ## XMAS break
-* Merry Christmas!
+Merry Christmas!
 
 
