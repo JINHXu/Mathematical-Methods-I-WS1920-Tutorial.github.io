@@ -118,5 +118,20 @@ Ex. 03 => 7.3 + 7.4
 
 _Example solution of Ex.01 b) in Assignment 9 to be added._
 
+* a correction
+
+Solution I presented in tutorial for (4) in example was false :P
+
+To showcase ”∀x∃yR(x,y) is satisfiable”, we have to find at least one model, in which the FML is true.
+it can be:
+
+Model:
+M4 = ⟨D,F4⟩ with
+D = {A}
+F (R) = {⟨A, A⟩}
+
+Sorry :P
+
+
 
 
