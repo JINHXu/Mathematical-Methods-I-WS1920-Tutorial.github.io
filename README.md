@@ -102,4 +102,20 @@ __recent update:__</br>
 ## XMAS break
 Merry Christmas!
 
+## 2020
+No tutorials in __week 01(2. Jan)__ & __week 02(9. Jan)__
+
+## Week 03
+* Lecture Notes(@Natalie) on Moodle.
+<br>
+Ex. 01 => 7.2<br>
+Ex. 02 => 7.3 + 7.4 + 7.5.1<br>
+Examples we went through:
+(1), (2), (3), (4), (5), (10)
+<br>
+Ex. 03 => 7.3 + 7.4
+<br>
+_Example solution of Ex.01 b) in Assignment 9 to be added._
+
+
 
