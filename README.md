@@ -106,7 +106,7 @@ Merry Christmas!
 No tutorials in __week 01(2. Jan)__ & __week 02(9. Jan)__
 
 ## Week 03
-* Lecture Notes(@Natalie) on Moodle.
+* Lecture Notes 10(@Natalie) on Moodle.
 
 Ex. 01 => 7.2<br>
 Ex. 02 => 7.3 + 7.4 + 7.5.1<br>
@@ -131,6 +131,20 @@ D = {A}
 F (R) = {⟨A, A⟩}
 
 Sorry :P
+
+## Week 04
+
+* Lecture Notes 11(@Natalie) on Moodle.
+
+TT Examples went through:<br/>
+(4) (6) (7)<br/>
+
+ND Examples went through:<br/>
+(6) (7) (8)<br/>
+
+Take-home exercise:<br/>
+
+ND: (9),(10),(11),(12)
 
 
 
