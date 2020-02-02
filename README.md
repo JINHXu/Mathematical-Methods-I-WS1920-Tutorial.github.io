@@ -146,6 +146,12 @@ Take-home exercise:<br/>
 
 ND: (9),(10),(11),(12)
 
+## Week 05
+
+* practice exam on Moodle
+ 
+Good luck in the exam!
+
 
 
 
